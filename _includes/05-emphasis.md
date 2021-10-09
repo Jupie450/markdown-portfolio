@@ -1,18 +1,18 @@
 ## What Interests me:
  I am new to this field so...
-- *Languages
+- _Languages_
   - Java Script
   - C++
   - Swift
 
-- *Web Design
+- _Web Design_
   - Wix
   - Wordpress
   - Dreamweaver
 
-- *Single board computers
+- _Single board computers_
 
-- *Sound/Vocal Recording
+- _Sound/Vocal Recording_
 
 
  
